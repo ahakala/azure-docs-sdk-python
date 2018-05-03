@@ -13,7 +13,7 @@ items:
     remote:
       branch: master
       path: null
-      repo: https://github.com/Azure/azure-iot-sdk-python.git
+      repo: https://github.com/Azure/azure-functions-python-worker.git
     startLine: null
   type: module
   uid: tests
