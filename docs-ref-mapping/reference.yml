@@ -11,7 +11,7 @@
       uid: azure.python.sdk.landingPage.services.Active.Directory.Client
       landingPageType: Service
       children:
-      - 'adal*'
+      - 'adal'
     - name: Management
       uid: azure.python.sdk.landingPage.services.Active.Directory.Management
       landingPageType: Service
