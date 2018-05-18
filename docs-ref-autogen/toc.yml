@@ -20367,94 +20367,11 @@
       uid: adal.adal_error.AdalError
     name: adal.adal_error
     uid: adal.adal_error
-  - name: adal.argument
-    uid: adal.argument
   - items:
     - name: adal.authentication_context.AuthenticationContext
       uid: adal.authentication_context.AuthenticationContext
     name: adal.authentication_context
     uid: adal.authentication_context
-  - items:
-    - name: adal.authentication_parameters.AuthenticationParameters
-      uid: adal.authentication_parameters.AuthenticationParameters
-    name: adal.authentication_parameters
-    uid: adal.authentication_parameters
-  - items:
-    - name: adal.authority.Authority
-      uid: adal.authority.Authority
-    name: adal.authority
-    uid: adal.authority
-  - items:
-    - name: adal.cache_driver.CacheDriver
-      uid: adal.cache_driver.CacheDriver
-    name: adal.cache_driver
-    uid: adal.cache_driver
-  - items:
-    - name: adal.code_request.CodeRequest
-      uid: adal.code_request.CodeRequest
-    name: adal.code_request
-    uid: adal.code_request
-  - items:
-    - name: adal.constants.AADConstants
-      uid: adal.constants.AADConstants
-    - name: adal.constants.AdalIdParameters
-      uid: adal.constants.AdalIdParameters
-    - name: adal.constants.Cache
-      uid: adal.constants.Cache
-    - name: adal.constants.Errors
-      uid: adal.constants.Errors
-    - name: adal.constants.HttpError
-      uid: adal.constants.HttpError
-    - name: adal.constants.IdTokenFields
-      uid: adal.constants.IdTokenFields
-    - name: adal.constants.Jwt
-      uid: adal.constants.Jwt
-    - name: adal.constants.Misc
-      uid: adal.constants.Misc
-    - name: adal.constants.OAuth2
-      uid: adal.constants.OAuth2
-    - name: adal.constants.OAuth2DeviceCodeResponseParameters
-      uid: adal.constants.OAuth2DeviceCodeResponseParameters
-    - name: adal.constants.OAuth2GrantType
-      uid: adal.constants.OAuth2GrantType
-    - name: adal.constants.OAuth2Parameters
-      uid: adal.constants.OAuth2Parameters
-    - name: adal.constants.OAuth2ResponseParameters
-      uid: adal.constants.OAuth2ResponseParameters
-    - name: adal.constants.OAuth2Scope
-      uid: adal.constants.OAuth2Scope
-    - name: adal.constants.Saml
-      uid: adal.constants.Saml
-    - name: adal.constants.TokenResponseFields
-      uid: adal.constants.TokenResponseFields
-    - name: adal.constants.UserRealm
-      uid: adal.constants.UserRealm
-    - name: adal.constants.WSTrustVersion
-      uid: adal.constants.WSTrustVersion
-    - name: adal.constants.XmlNamespaces
-      uid: adal.constants.XmlNamespaces
-    name: adal.constants
-    uid: adal.constants
-  - items:
-    - name: adal.log.Logger
-      uid: adal.log.Logger
-    name: adal.log
-    uid: adal.log
-  - items:
-    - name: adal.mex.Mex
-      uid: adal.mex.Mex
-    name: adal.mex
-    uid: adal.mex
-  - items:
-    - name: adal.oauth2_client.OAuth2Client
-      uid: adal.oauth2_client.OAuth2Client
-    name: adal.oauth2_client
-    uid: adal.oauth2_client
-  - items:
-    - name: adal.self_signed_jwt.SelfSignedJwt
-      uid: adal.self_signed_jwt.SelfSignedJwt
-    name: adal.self_signed_jwt
-    uid: adal.self_signed_jwt
   - items:
     - name: adal.token_cache.TokenCache
       uid: adal.token_cache.TokenCache
@@ -20462,29 +20379,5 @@
       uid: adal.token_cache.TokenCacheKey
     name: adal.token_cache
     uid: adal.token_cache
-  - items:
-    - name: adal.token_request.TokenRequest
-      uid: adal.token_request.TokenRequest
-    name: adal.token_request
-    uid: adal.token_request
-  - items:
-    - name: adal.user_realm.UserRealm
-      uid: adal.user_realm.UserRealm
-    name: adal.user_realm
-    uid: adal.user_realm
-  - name: adal.util
-    uid: adal.util
-  - items:
-    - name: adal.wstrust_request.WSTrustRequest
-      uid: adal.wstrust_request.WSTrustRequest
-    name: adal.wstrust_request
-    uid: adal.wstrust_request
-  - items:
-    - name: adal.wstrust_response.WSTrustResponse
-      uid: adal.wstrust_response.WSTrustResponse
-    name: adal.wstrust_response
-    uid: adal.wstrust_response
-  - name: adal.xmlutil
-    uid: adal.xmlutil
   name: adal
   uid: adal
